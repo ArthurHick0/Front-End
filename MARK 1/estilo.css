@@ -3,7 +3,7 @@
 body {
     background-color: #212121;
     color: azure;
-    text-align: justify;
+    text-align: left;
     font-family: Arial, Helvetica, sans-serif;
 }
 
@@ -11,18 +11,15 @@ h1 {
     font-family: Arial, Helvetica, sans-serif;
     color: whitesmoke;
     background-color: rgba(255, 0, 255, 0.200);
-    text-align: left;
 }
 
 h2 {
     font-size: 27px;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    text-align: justify;
     background-color: black;
     color: white;
 }
 
 p {
-    text-align: left;
     font-size: 18px;
 }
